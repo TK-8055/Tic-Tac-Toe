@@ -22,3 +22,9 @@ A simple, interactive Tic Tac Toe (X-O) game built with **HTML, CSS, and JavaScr
 
 ## 🚀 Live Demo
 https://tk-8055.github.io/Tic-Tac-Toe/
+
+## 🎨 Screenshots
+
+![Tic Tac Toe Screenshot 1](1.png)
+![Tic Tac Toe Screenshot 2](2.png)
+![Tic Tac Toe Screenshot 3](3.png)
